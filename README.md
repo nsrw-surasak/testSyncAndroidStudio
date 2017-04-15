@@ -48,3 +48,4 @@ Firstly, You must install [Git for Windows](https://git-scm.com/download/win)
 ## Authors
 
 * **Surasak Nasuriwong** - [nsrw-surasak](https://github.com/nsrw-surasak)
+I was following by [London App Developer](https://goo.gl/NKzbK5) site. 
